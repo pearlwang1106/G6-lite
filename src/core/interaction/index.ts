@@ -1,0 +1,1 @@
+export { BehaviorManager } from './behavior';
